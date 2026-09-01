@@ -1,0 +1,6 @@
+{
+  "version": "0.10.13",
+  "build": 23,
+  "apk_url": "https://github.com/INGYasen/kaptura-releases/releases/download/v0.10.13/kaptura.apk",
+  "changelog": "Deudas banco: capital vs interés, celebración al saldar, fecha inicio, editar Me deben, calendario hoy."
+}
