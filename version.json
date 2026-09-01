@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Deudas banco: capital vs interés, celebración al saldar, fecha inicio, editar Me deben, calendario hoy, buscar actualización OTA.",
-    "build":  23,
-    "version":  "0.10.13",
+    "changelog":  "Voz: sueldo y ventas como ingreso; deuda en cuotas sin descontar saldo; respuestas mas claras.",
+    "build":  24,
+    "version":  "0.10.14",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
