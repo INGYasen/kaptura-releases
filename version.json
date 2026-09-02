@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Galería, mejor OCR de comprobantes y sync que explica errores y reintenta.",
-    "build":  32,
-    "version":  "0.10.22",
+    "changelog":  "Deudas en cuotas: monto en miles correcto, inicio en el mes actual y cuotas quincenales si lo pides.",
+    "build":  33,
+    "version":  "0.10.23",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
