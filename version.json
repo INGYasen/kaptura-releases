@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Voz: sueldo y ventas como ingreso; deuda en cuotas sin descontar saldo; respuestas mas claras.",
-    "build":  24,
-    "version":  "0.10.14",
+    "changelog":  "Voz mas avanzada: quincena, chamba, credito, honorarios, mas comida y consultas naturales.",
+    "build":  25,
+    "version":  "0.10.15",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
