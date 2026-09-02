@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Voz mas avanzada: quincena, chamba, credito, honorarios, mas comida y consultas naturales.",
-    "build":  25,
-    "version":  "0.10.15",
+    "changelog":  "- Puerto API 8787 (antes 8080) para evitar conflictos con otros servicios\n- PostgreSQL en host 5433 (antes 5432)\n- Voz offline: entiende deudas con Caja Arequipa, aca Arequipa y cuotas sin Gemini\n- Migracion automatica de URL guardada :8080 a :8787\n- Mensaje mas claro cuando el parser local no alcanza",
+    "build":  26,
+    "version":  "0.10.16",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
