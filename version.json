@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "- Decir deuda con BCP/banco ya NO descuenta el saldo\n- Crea automaticamente las N cuotas dichas\n- Respeta mes de inicio (desde octubre, empiezo en noviembre)\n- Proximos pagos muestra solo la cuota del mes",
-    "build":  27,
-    "version":  "0.10.17",
+    "changelog":  "- Evita que \u0027deuda con BCP 250\u0027 se registre como gasto\n- anota/registra deuda ya no se convierte en gaste\n- Deudas bancarias en cuotas sin descontar saldo",
+    "build":  28,
+    "version":  "0.10.18",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
