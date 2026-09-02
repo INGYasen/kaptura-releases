@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "- Splash: logo completo al iniciar (ya no aparece recortado)",
-    "build":  31,
-    "version":  "0.10.21",
+    "changelog":  "Galería, mejor OCR de comprobantes y sync que explica errores y reintenta.",
+    "build":  32,
+    "version":  "0.10.22",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
