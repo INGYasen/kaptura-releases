@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "- Evita que \u0027deuda con BCP 250\u0027 se registre como gasto\n- anota/registra deuda ya no se convierte en gaste\n- Deudas bancarias en cuotas sin descontar saldo",
-    "build":  28,
-    "version":  "0.10.18",
+    "changelog":  "- Mas dialecto para deudas bancarias (credito, letras, ando debiendo, me enrede)\n- Reconoce mas bancos y cajas (Interbank, Falabella, Mi Banco, cajas regionales)\n- Mejor entiende cuotas/mensualidades y mes de inicio",
+    "build":  29,
+    "version":  "0.10.19",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
