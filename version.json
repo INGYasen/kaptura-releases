@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "- Actualizacion descarga el APK dentro de la app (sin multiples descargas)\n- Una sola descarga a la vez con barra de progreso\n- Abre el instalador al terminar",
-    "build":  30,
-    "version":  "0.10.20",
+    "changelog":  "- Splash: logo completo al iniciar (ya no aparece recortado)",
+    "build":  31,
+    "version":  "0.10.21",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
