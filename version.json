@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "- Mas dialecto para deudas bancarias (credito, letras, ando debiendo, me enrede)\n- Reconoce mas bancos y cajas (Interbank, Falabella, Mi Banco, cajas regionales)\n- Mejor entiende cuotas/mensualidades y mes de inicio",
-    "build":  29,
-    "version":  "0.10.19",
+    "changelog":  "- Actualizacion descarga el APK dentro de la app (sin multiples descargas)\n- Una sola descarga a la vez con barra de progreso\n- Abre el instalador al terminar",
+    "build":  30,
+    "version":  "0.10.20",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
