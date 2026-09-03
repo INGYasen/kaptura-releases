@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Yape recibido (me yapearon / me llamaron STT) cuenta como ingreso. API en puerto 8787.",
-    "build":  35,
-    "version":  "0.10.25",
+    "changelog":  "Nube: conectar con Wi-Fi o datos (URL publica), chip \u0027sin nube\u0027 abre login remoto, Más → Conectar nube. Requiere API+tunel en la PC.",
+    "build":  36,
+    "version":  "0.10.26",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
