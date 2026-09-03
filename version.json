@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Deudas en cuotas: monto en miles correcto, inicio en el mes actual y cuotas quincenales si lo pides.",
-    "build":  33,
-    "version":  "0.10.23",
+    "changelog":  "Yape recibido (me yapearon / me llamaron STT) cuenta como ingreso. API en puerto 8787.",
+    "build":  35,
+    "version":  "0.10.25",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
