@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Conectar nube: evita BOTTOM OVERFLOWED, opción de huella cuando hay clave guardada, y mensajes de clave/estado más claros.",
-    "build":  37,
+    "changelog":  "Sin banner DEBUG (build release). Diálogo \u0027Conectar nube\u0027 sin overflow, opción huella, mensajes claros.",
+    "build":  38,
     "version":  "0.10.26",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
