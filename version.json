@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Nube: conectar con Wi-Fi o datos (URL publica), chip \u0027sin nube\u0027 abre login remoto, Más → Conectar nube. Requiere API+tunel en la PC.",
-    "build":  36,
+    "changelog":  "Conectar nube: evita BOTTOM OVERFLOWED, opción de huella cuando hay clave guardada, y mensajes de clave/estado más claros.",
+    "build":  37,
     "version":  "0.10.26",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
