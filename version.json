@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Conectar nube: boton Conectar siempre visible (Cancelar + Conectar). Sin overflow. Release sin DEBUG.",
-    "build":  39,
+    "changelog":  "Nube: valida clave del telefono, sincroniza con la nube, boton huella visible si el dispositivo la tiene. API /auth/connect.",
+    "build":  40,
     "version":  "0.10.26",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
