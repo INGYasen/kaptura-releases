@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Inicio: todos los presupuestos. Túnel HTTP/2 más estable. URL de nube actualizada.",
-    "build":  43,
-    "version":  "0.10.29",
+    "changelog":  "Actualización: usa la versión real del APK. Si ya estás al día, dice \u0027Sin actualizaciones\u0027 y no vuelve a ofrecer la misma.",
+    "build":  44,
+    "version":  "0.10.30",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
