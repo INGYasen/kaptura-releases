@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Nube: valida clave del usuario abierto (no login suelto). Mensajes claros. La nube es tu PC (Docker/PostgreSQL).",
-    "build":  42,
-    "version":  "0.10.28",
+    "changelog":  "Inicio: todos los presupuestos. Túnel HTTP/2 más estable. URL de nube actualizada.",
+    "build":  43,
+    "version":  "0.10.29",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
