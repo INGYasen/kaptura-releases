@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Voz: micro, combi, minibus, bus, custer y mas jerga peruana van a Transporte (ya no a Otros).",
-    "build":  41,
-    "version":  "0.10.27",
+    "changelog":  "Nube: valida clave del usuario abierto (no login suelto). Mensajes claros. La nube es tu PC (Docker/PostgreSQL).",
+    "build":  42,
+    "version":  "0.10.28",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
