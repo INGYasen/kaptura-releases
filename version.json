@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Actualización: usa la versión real del APK. Si ya estás al día, dice \u0027Sin actualizaciones\u0027 y no vuelve a ofrecer la misma.",
-    "build":  44,
-    "version":  "0.10.30",
+    "changelog":  "Voz: comida peruana/jerga; Plin/Yape/transferencias gasto vs ingreso. Nube: URL del túnel actualizada.",
+    "build":  45,
+    "version":  "0.10.31",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
