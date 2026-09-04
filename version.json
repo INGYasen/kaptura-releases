@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Voz: comida peruana/jerga; Plin/Yape/transferencias gasto vs ingreso. Nube: URL del túnel actualizada.",
-    "build":  45,
-    "version":  "0.10.31",
+    "changelog":  "Seguridad: clave min. 8 + mayúscula + especial; correo único y validado. Voz: comida peruana/jerga; Plin/Yape/transferencias. Presupuestos completos. Fix actualización. Nube/túnel.",
+    "build":  46,
+    "version":  "0.10.32",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
