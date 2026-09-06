@@ -1,6 +1,6 @@
-﻿{
-    "changelog":  "Voz: entiende soles con céntimos/centavos (p. ej. 10 soles con 30 centimos). Escaneo OCR estable. Sin bucle de actualización.",
-    "build":  48,
-    "version":  "0.10.34",
-    "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
+{
+    "version": "0.10.34",
+    "build": 48,
+    "apk_url": "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk",
+    "changelog": "Voz: entiende soles con centimos/centavos (p. ej. 10 soles con 30 centimos). Escaneo OCR estable. Sin bucle de actualizacion."
 }
