@@ -1,6 +1,6 @@
 {
-  "version": "0.10.36",
-  "build": 50,
-  "apk_url": "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk",
-  "changelog": "Actualización disponible."
+    "changelog":  "Actualización disponible.",
+    "build":  51,
+    "version":  "0.10.37",
+    "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
