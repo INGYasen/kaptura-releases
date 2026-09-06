@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Seguridad: clave min. 8 + mayúscula + especial; correo único y validado. Voz: comida peruana/jerga; Plin/Yape/transferencias. Presupuestos completos. Fix actualización. Nube/túnel.",
-    "build":  46,
-    "version":  "0.10.32",
+    "changelog":  "Escaneo: OCR local primero (Yape/boletas), ya no se cuelga si falla la nube. Mejor total Plaza Vea/Yape. Voz: pollo/broster. Túnel actualizado.",
+    "build":  47,
+    "version":  "0.10.33",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
