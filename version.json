@@ -1,6 +1,6 @@
 {
-    "version": "0.10.34",
-    "build": 48,
-    "apk_url": "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk",
-    "changelog": "Voz: entiende soles con centimos/centavos (p. ej. 10 soles con 30 centimos). Escaneo OCR estable. Sin bucle de actualizacion."
+  "version": "0.10.35",
+  "build": 49,
+  "apk_url": "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk",
+  "changelog": "OTA estable para todos: manifiesto sin BOM, fuentes de respaldo. Voz con centimos/centavos. Escaneo OCR."
 }
