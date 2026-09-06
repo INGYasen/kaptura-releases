@@ -1,6 +1,6 @@
 {
-    "changelog":  "OTA estable para todos: manifiesto sin BOM y fuentes de respaldo. Voz con centimos/centavos. Escaneo OCR.",
-    "build":  49,
-    "version":  "0.10.35",
+    "changelog":  "Actualizacion: mensajes claros solo con la version (sin build). OTA estable para todos.",
+    "build":  50,
+    "version":  "0.10.36",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
