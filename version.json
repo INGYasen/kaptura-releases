@@ -1,7 +1,7 @@
 {
-    "changelog":  "Mejora lectura de capturas Yape: reconoce el monto aunque diga ¡Yapeaste!, venga sin S/ o el OCR lea 5/ en vez de S/.",
-    "build":  61,
-    "version":  "0.10.47",
+    "changelog":  "Yape operativo: la galería ya no aplasta la captura, el teléfono lee el monto aunque el OCR venga en una sola línea, y si falta el total abre confirmación para completarlo. Ya no pide acercar la foto.",
+    "build":  62,
+    "version":  "0.10.48",
     "api_url":  "https://ice-went-infectious-obvious.trycloudflare.com",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
