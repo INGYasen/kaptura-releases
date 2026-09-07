@@ -1,7 +1,7 @@
 {
-    "changelog":  "Entrar sin clave opcional en Ajustes (apagado por defecto). Al activarlo, abres Kaptura directo si ya tienes sesión.",
-    "build":  59,
-    "version":  "0.10.45",
+    "changelog":  "Corrección de Entrar sin clave: no se queda en la pantalla inicial si falla un ajuste, entra directo al abrir si lo activaste, y el aviso de confirmación ya no habla de cambiar montos.",
+    "build":  60,
+    "version":  "0.10.46",
     "api_url":  "https://ice-went-infectious-obvious.trycloudflare.com",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
