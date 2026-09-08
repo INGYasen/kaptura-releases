@@ -1,7 +1,7 @@
 {
-    "changelog":  "Lee la captura de Yape completa (arriba el monto, abajo el destino). Ya no recorta el tope de la imagen.",
-    "build":  63,
-    "version":  "0.10.49",
-    "api_url":  "https://ice-went-infectious-obvious.trycloudflare.com",
+    "changelog":  "Ahora puedes eliminar tu cuenta y todos tus datos desde Perfil. Lee mejor las boletas difíciles cuando el monto va arriba de la foto. Los avisos de cuotas llegan a las 9:00 a.m. de Lima. Más frases para registrar por voz. Política de privacidad y términos dentro de la app.",
+    "build":  64,
+    "version":  "0.10.50",
+    "api_url":  "https://protocol-labels-already-danny.trycloudflare.com",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
