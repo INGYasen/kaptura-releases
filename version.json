@@ -1,7 +1,7 @@
 {
-    "changelog":  "Al hablar, aparece un monito escuchando. Toca Listo cuando termines.",
-    "build":  65,
-    "version":  "0.10.51",
-    "api_url":  "https://girlfriend-how-council-improving.trycloudflare.com",
+    "changelog":  "Al hablar aparece el monito de audífonos animado, y en ese rato la app escucha lo que dices.",
+    "build":  66,
+    "version":  "0.10.52",
+    "api_url":  "https://feof-forecasts-necessarily-magic.trycloudflare.com",
     "apk_url":  "https://media.githubusercontent.com/media/INGYasen/kaptura-releases/main/kaptura.apk"
 }
